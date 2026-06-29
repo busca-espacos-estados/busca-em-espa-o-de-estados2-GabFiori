@@ -21,7 +21,7 @@ def print_result(name: str, result):
 
 
 if __name__ == "__main__":
-    initial = State((1, 2, 3, 0, 4, 6, 7, 5, 8))  
+    initial = State((1, 2, 3, 4, 5, 0, 7, 8, 6))
 
     print("Estado inicial:")
     print(initial)
